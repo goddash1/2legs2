@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Payment processor",
+    "description": "Return hash for payments",
+    "author": "Artsiom",
+    "params": [
+      {
+        "name": "body_input",
+        "displayName": "Body",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
